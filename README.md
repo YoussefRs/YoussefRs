@@ -16,7 +16,7 @@ I hope this helps you to surf my GitHub better!
 
 | Project                | Status |
 | ---------------------- | ------ |
-| 1. [Train-Tickets-QR-CODE](https://github.com/YoussefRs/Train-Tickets-QR-CODE-.git)  | ⚙️🔥  |
+| 1. [Tickets](https://github.com/YoussefRs/Train-Tickets-QR-CODE-.git)  | ⚙️🔥  |
 | 2. [React-Native-Delevery-app](https://github.com/YoussefRs/Delevery-app-)  | ⚙️  |
 | 3. [WeWatch](https://github.com/YoussefRs/WeWatch)  | ✔️ 🔥  |
 | 4. [Fitness-Landing Page](https://github.com/YoussefRs/Client-Sports-Landing)  | ✔️  |
